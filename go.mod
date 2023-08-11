@@ -16,6 +16,7 @@ require (
 
 require (
 	github.com/golang/protobuf v1.5.3 // indirect
+	github.com/hashicorp/go-version v1.6.0 // indirect
 	github.com/jpillora/backoff v1.0.0 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
